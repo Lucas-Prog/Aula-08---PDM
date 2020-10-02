@@ -1,0 +1,10 @@
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\build.props
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\adb.props
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\res.flag
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\R.txt
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\R.cs.flag
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB.Android\obj\Debug\90\XF.LocalDB.Android.csproj.CoreCompileInputs.cache
