@@ -8,3 +8,9 @@ C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.Lo
 C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\MainPage.xaml.g.cs
 C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\NovoAlunoView.xaml.g.cs
 C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\ref\XF.LocalDB.dll
+C:\Users\Lucas\source\repos\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb

@@ -6,9 +6,9 @@ using XF.LocalDB.Model;
 
 namespace XF.LocalDB.AlunoViewModel
 {
-    public class AlunoViewModel
+    public class Aluno_ViewModel
     {
-        public AlunoViewModel() { }
+        public Aluno_ViewModel() { }
         #region Propriedades
         public string RM { get; set; }
         public string Nome { get; set; }

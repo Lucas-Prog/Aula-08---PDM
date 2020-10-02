@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -13,7 +14,7 @@ using Android.Widget;
 using XF.LocalDB.Data;
 using XF.LocalDB.Droid;
 
-[assembly: Dependency(typeof(SQLite_Android))]
+[assembly: Xamarin.Forms.Dependency(typeof(SQLite_Android))]
 
 namespace XF.LocalDB.Droid
 {
@@ -29,8 +30,7 @@ namespace XF.LocalDB.Droid
             string caminho =
             System.Environment.GetFolderPath
             (System.Environment.SpecialFolder.Personal);
-            var local = Path.Combine(caminho,
-            arquivodb);
+            var local = Path.Combine(caminho, arquivodb);
             var conexao = new
             SQLite.SQLiteConnection(local);
             return conexao;

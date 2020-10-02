@@ -10,21 +10,21 @@ using XF.LocalDB.AlunoViewModel;
 
 namespace XF.LocalDB.View.Aluno
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
+    //[XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class MainPage : ContentPage
     {
-        AlunoViewModel vmAluno;
+        Aluno_ViewModel vmAluno;
 
         public MainPage()
         {
-            vmAluno = new AlunoViewModel();
+            vmAluno = new Aluno_ViewModel();
             BindingContext = vmAluno;
             InitializeComponent();
         }
 
         protected override void OnAppearing()
         {
-            vmAluno = new AlunoViewModel();
+            vmAluno = new Aluno_ViewModel();
             BindingContext = vmAluno;
             base.OnAppearing();
         }
